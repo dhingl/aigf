@@ -4,10 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AigfprojectApplication {
+public class AiGfApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(AigfprojectApplication.class, args);
+		SpringApplication.run(AiGfApplication.class, args);
 	}
 
 }
